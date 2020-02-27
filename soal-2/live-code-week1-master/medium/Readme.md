@@ -7,6 +7,7 @@ Arithmetic adalah ilmu hitung angka yang memiliki beberapa operasi seperti +,-,x
 
 Buatlah function `countArithmetic()` yang akan menerima ***input*** sebuah string, dimana input tersebut terdiri dari serangkaian angka dan operasi matematika +,-,x,: <br>
 Function ini akan menghasilkan result angkanya. Perhatikan bahwa operasi x dan : lebih diutamakan daripada operasi +,-.
+Dilarang menggunakan function `eval`
 
 Contoh ***input*** '30–18:6x2+19' : <br>
 step 1 : 30–18:6x2+19 <br>
