@@ -1,4 +1,4 @@
-# HARD - HACKTIV8 Lecture Schedule Generator
+# HARD - Referpal Lecture Schedule Generator
 
 ## Description
 Buatlah sebuah function yang menghasilkan jadwal lecture fase-1 selama (n) minggu secara otomatis bagi semua instruktur:
